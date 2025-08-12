@@ -1,0 +1,84 @@
+[
+  {
+    "id": "assouline-myknos",
+    "title": "Assouline: Mykonos Muse",
+    "publisher": "Assouline",
+    "price": "€105",
+    "tags": [
+      "travel",
+      "lifestyle",
+      "summer"
+    ],
+    "image": "https://images.assouline.com/catalog/product/cache/8/thumbnail/800x/040ec09b1e35df139433887a97daa66f/m/y/mykonos-muse-9781614286905_flat_front.jpg",
+    "affiliate_url": "https://partner-affiliate-link.com/mykonos-muse",
+    "blurb": "A görög szigetvilág ikonikus hangulata fotókon és történeteken keresztül."
+  },
+  {
+    "id": "assouline-paris",
+    "title": "Assouline: Paris Chic",
+    "publisher": "Assouline",
+    "price": "€95",
+    "tags": [
+      "fashion",
+      "lifestyle",
+      "travel"
+    ],
+    "image": "https://images.assouline.com/catalog/product/cache/8/thumbnail/800x/040ec09b1e35df139433887a97daa66f/p/a/paris-chic-9781614289258_flat_front.jpg",
+    "affiliate_url": "https://partner-affiliate-link.com/paris-chic",
+    "blurb": "A fény városa – divat, építészet és párizsi életérzés."
+  },
+  {
+    "id": "taschen-1000-chairs",
+    "title": "TASCHEN: 1000 Chairs",
+    "publisher": "TASCHEN",
+    "price": "€60",
+    "tags": [
+      "design",
+      "furniture",
+      "reference"
+    ],
+    "image": "https://www.taschen.com/media/catalog/product/cache/3/image/800x/040ec09b1e35df139433887a97daa66f/1/0/1000chairs_fo_int_open001_02716_0.jpg",
+    "affiliate_url": "https://partner-affiliate-link.com/1000-chairs",
+    "blurb": "Ikonikus székdesignok a 19. századtól napjainkig."
+  },
+  {
+    "id": "phaidon-the-art-book",
+    "title": "Phaidon: The Art Book",
+    "publisher": "Phaidon",
+    "price": "€55",
+    "tags": [
+      "art",
+      "reference"
+    ],
+    "image": "https://cdn.phaidon.com/__data/assets/image/1140x1280/171989/theartbook_9780714874609_94469_edited.jpg",
+    "affiliate_url": "https://partner-affiliate-link.com/the-art-book",
+    "blurb": "A művészet enciklopédiája – a világ mesterművei egy kötetben."
+  },
+  {
+    "id": "rizzoli-watch-book",
+    "title": "Rizzoli: The Watch Book",
+    "publisher": "Rizzoli",
+    "price": "€85",
+    "tags": [
+      "watches",
+      "men",
+      "collectors"
+    ],
+    "image": "https://images.rizzoliusa.com/coverimages/9780847864521.jpg",
+    "affiliate_url": "https://partner-affiliate-link.com/the-watch-book",
+    "blurb": "Luxusórák világa – technológia, történelem és gyűjtői érték."
+  },
+  {
+    "id": "assouline-provence",
+    "title": "Assouline: Provence Glory",
+    "publisher": "Assouline",
+    "price": "€105",
+    "tags": [
+      "travel",
+      "lifestyle"
+    ],
+    "image": "https://images.assouline.com/catalog/product/cache/8/thumbnail/800x/040ec09b1e35df139433887a97daa66f/p/r/provence-glory-9781614289821_flat_front.jpg",
+    "affiliate_url": "https://partner-affiliate-link.com/provence-glory",
+    "blurb": "Dél-Franciaország esszenciája – színek, illatok és mediterrán élet."
+  }
+]

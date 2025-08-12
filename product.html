@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="hu">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Termék – RÉV Books</title>
+  <link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body onload="loadProductPage()">
+<header>
+  <div class="container navbar">
+    <div class="logo">
+      <img src="assets/img/logo.svg" alt="RÉV Books logó">
+      <a href="index.html"><strong>RÉV Books</strong></a>
+    </div>
+    <nav class="nav-links">
+      <a href="catalog.html">Katalógus</a>
+      <a href="https://www.youtube.com/@revbooks" target="_blank">YouTube</a>
+    </nav>
+  </div>
+</header>
+
+<main class="section">
+  <div class="container" style="display:grid;grid-template-columns:1fr 1fr;gap:24px;">
+    <div>
+      <img id="hero" src="" alt="Könyv" style="width:100%;border-radius:12px;border:1px solid #e6dfd6;">
+    </div>
+    <div>
+      <h1 id="title"></h1>
+      <p><span class="badge" id="publisher"></span></p>
+      <p id="blurb"></p>
+      <p class="price" id="price"></p>
+      <p><a id="buy" class="button-primary" href="#" target="_blank" rel="nofollow sponsored">Megvásárolom (affiliate)</a></p>
+      <p class="notice">A link kereskedelmi jellegű (affiliate). A vásárlásod támogatja a csatornát.</p>
+    </div>
+  </div>
+</main>
+
+<footer>
+  <div class="container footer-inner">
+    <div>
+      <img src="assets/img/logo.svg" alt="RÉV Books" style="height:28px;">
+      <p><small>© 2025 RÉV Books.</small></p>
+    </div>
+  </div>
+</footer>
+<script src="scripts.js"></script>
+</body>
+</html>
